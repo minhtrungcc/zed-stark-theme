@@ -1,9 +1,9 @@
 {
   "name": "stark-theme",
-  "displayName": "Stark Theme",
+  "displayName": "Purple Stark Theme",
   "description": "A warm, paper-like theme with purple accents. Available in light and dark variants.",
-  "version": "1.0.0",
-  "publisher": "stark",
+  "version": "1.0.1",
+  "publisher": "MTCC",
   "icon": "icon.png",
   "engines": {
     "vscode": "^1.60.0"
@@ -22,12 +22,12 @@
   "contributes": {
     "themes": [
       {
-        "label": "Stark Light",
+        "label": "Purple Stark Light",
         "uiTheme": "vs",
         "path": "./themes/stark-light.json"
       },
       {
-        "label": "Stark Dark",
+        "label": "Purple Stark Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/stark-dark.json"
       }
