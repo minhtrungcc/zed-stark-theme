@@ -4,6 +4,7 @@
   "description": "A warm, paper-like theme with purple accents. Available in light and dark variants.",
   "version": "1.0.0",
   "publisher": "stark",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.60.0"
   },

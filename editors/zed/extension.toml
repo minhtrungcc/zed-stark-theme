@@ -5,6 +5,7 @@ description = "A warm, paper-like theme with purple accents for Zed"
 authors = ["minhtrungcc"]
 repository = "https://github.com/minhtrungcc/stark-theme"
 license = "MIT"
+icon = "icon.png"
 
 [themes]
 stark = "themes/stark.json"
