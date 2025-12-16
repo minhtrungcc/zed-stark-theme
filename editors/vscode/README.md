@@ -7,14 +7,13 @@ A warm, paper-like theme with purple accents. Available in light and dark varian
 ### Purple Stark Light
 
 A warm, cream-toned light theme with soft purple highlights.
-
-![Stark Light](https://raw.githubusercontent.com/minhtrungcc/stark-theme/main/editors/vscode/light.png)
+![Stark Light](https://i.ibb.co/XZkd3mxx/Screenshot-2025-12-16-at-16-52-44.png)
 
 ### Purple Stark Dark
 
 A cozy dark theme with warm undertones and purple accents.
 
-![Stark Dark](https://raw.githubusercontent.com/minhtrungcc/stark-theme/main/editors/vscode/dark.png)
+![Stark Dark](https://i.ibb.co/YFSGNnL0/Screenshot-2025-12-16-at-16-52-25.png)
 
 ## Installation
 
@@ -66,29 +65,29 @@ A cozy dark theme with warm undertones and purple accents.
 
 ### Light Theme
 
-| Element    | Color                                                              |
-| ---------- | ------------------------------------------------------------------ |
-| Background | ![#fdfcfa](https://via.placeholder.com/12/fdfcfa?text=+) `#fdfcfa` |
-| Foreground | ![#3d3a36](https://via.placeholder.com/12/3d3a36?text=+) `#3d3a36` |
-| Accent     | ![#7c5cba](https://via.placeholder.com/12/7c5cba?text=+) `#7c5cba` |
-| Keywords   | ![#9b6bb8](https://via.placeholder.com/12/9b6bb8?text=+) `#9b6bb8` |
-| Strings    | ![#5a9a52](https://via.placeholder.com/12/5a9a52?text=+) `#5a9a52` |
-| Functions  | ![#5a7cc7](https://via.placeholder.com/12/5a7cc7?text=+) `#5a7cc7` |
-| Types      | ![#4a9a9a](https://via.placeholder.com/12/4a9a9a?text=+) `#4a9a9a` |
-| Numbers    | ![#c78a5a](https://via.placeholder.com/12/c78a5a?text=+) `#c78a5a` |
+| Element    | Color                                                                        |
+| ---------- | ---------------------------------------------------------------------------- |
+| Background | ![Background](https://img.shields.io/badge/-%20-fdfcfa?style=flat) `#fdfcfa` |
+| Foreground | ![Foreground](https://img.shields.io/badge/-%20-3d3a36?style=flat) `#3d3a36` |
+| Accent     | ![Accent](https://img.shields.io/badge/-%20-7c5cba?style=flat) `#7c5cba`     |
+| Keywords   | ![Keywords](https://img.shields.io/badge/-%20-9b6bb8?style=flat) `#9b6bb8`   |
+| Strings    | ![Strings](https://img.shields.io/badge/-%20-5a9a52?style=flat) `#5a9a52`    |
+| Functions  | ![Functions](https://img.shields.io/badge/-%20-5a7cc7?style=flat) `#5a7cc7`  |
+| Types      | ![Types](https://img.shields.io/badge/-%20-4a9a9a?style=flat) `#4a9a9a`      |
+| Numbers    | ![Numbers](https://img.shields.io/badge/-%20-c78a5a?style=flat) `#c78a5a`    |
 
 ### Dark Theme
 
-| Element    | Color                                                              |
-| ---------- | ------------------------------------------------------------------ |
-| Background | ![#22201c](https://via.placeholder.com/12/22201c?text=+) `#22201c` |
-| Foreground | ![#e8e4df](https://via.placeholder.com/12/e8e4df?text=+) `#e8e4df` |
-| Accent     | ![#b898e0](https://via.placeholder.com/12/b898e0?text=+) `#b898e0` |
-| Keywords   | ![#b890d8](https://via.placeholder.com/12/b890d8?text=+) `#b890d8` |
-| Strings    | ![#7cc070](https://via.placeholder.com/12/7cc070?text=+) `#7cc070` |
-| Functions  | ![#7a9ce0](https://via.placeholder.com/12/7a9ce0?text=+) `#7a9ce0` |
-| Types      | ![#68c0c0](https://via.placeholder.com/12/68c0c0?text=+) `#68c0c0` |
-| Numbers    | ![#e0a070](https://via.placeholder.com/12/e0a070?text=+) `#e0a070` |
+| Element    | Color                                                                        |
+| ---------- | ---------------------------------------------------------------------------- |
+| Background | ![Background](https://img.shields.io/badge/-%20-22201c?style=flat) `#22201c` |
+| Foreground | ![Foreground](https://img.shields.io/badge/-%20-e8e4df?style=flat) `#e8e4df` |
+| Accent     | ![Accent](https://img.shields.io/badge/-%20-b898e0?style=flat) `#b898e0`     |
+| Keywords   | ![Keywords](https://img.shields.io/badge/-%20-b890d8?style=flat) `#b890d8`   |
+| Strings    | ![Strings](https://img.shields.io/badge/-%20-7cc070?style=flat) `#7cc070`    |
+| Functions  | ![Functions](https://img.shields.io/badge/-%20-7a9ce0?style=flat) `#7a9ce0`  |
+| Types      | ![Types](https://img.shields.io/badge/-%20-68c0c0?style=flat) `#68c0c0`      |
+| Numbers    | ![Numbers](https://img.shields.io/badge/-%20-e0a070?style=flat) `#e0a070`    |
 
 ## Requirements
 
