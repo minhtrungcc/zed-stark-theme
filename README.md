@@ -2,6 +2,15 @@
 
 A warm, paper-like theme with purple accents. Available in light and dark variants.
 
+## Multi-Editor Support
+
+Stark Theme is designed to provide a consistent experience across multiple code editors. Currently supported:
+
+- **Zed** - Native extension support
+- **VS Code** - Full marketplace integration
+
+The project is structured to make adding new editor support straightforward. Each editor has its own directory under `editors/` with theme files in the appropriate format.
+
 ## Variants
 
 ### Stark Light
